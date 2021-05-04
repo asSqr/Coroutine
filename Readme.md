@@ -1,8 +1,8 @@
-### これは何？
+## これは何？
 JS の Generator で do 構文っぽいことができるという話 (https://github.com/pelotom/burrido) について調べている．もともと uhyo さんのレポジトリ (https://github.com/uhyo/infinite-recursion.macro) を見て思い出した．
 
-### 論文とか資料
-## 読んだ
+## 論文とか資料
+### 読んだ
 
 - Stackless Scala With Free Monads
 - Coroutine Pipelines - Mario Blažević, The Monad.Reader issue 19, pages 29-50
@@ -14,7 +14,8 @@ JS の Generator で do 構文っぽいことができるという話 (https://g
 - The Essence of Multitasking - William L. Harrison, Proceedings of the 11th International Conference on Algebraic
 Methodology and Software Technology, volume 4019 of Lecture Notes in Computer Science, 2006
 - https://pursuit.purescript.org/packages/purescript-free/4.0.1/docs/Control.Monad.Trampoline
-- https://qiita.com/41semicolon/items/985bdd2f551d9392463c / https://qiita.com/uhyo/items/21e2dc2b9b139473d859 
+- https://qiita.com/41semicolon/items/985bdd2f551d9392463c
+- https://qiita.com/uhyo/items/21e2dc2b9b139473d859 
 - https://blog.uhy.ooo/entry/2020-05-23/babel-macro/
 - https://gist.github.com/gakuzzzz/2737698 
 - https://gist.github.com/MgaMPKAy/7976436 
