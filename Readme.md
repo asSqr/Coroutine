@@ -32,7 +32,7 @@ Methodology and Software Technology, volume 4019 of Lecture Notes in Computer Sc
 - https://dl.acm.org/doi/pdf/10.1145/3110249 
 - https://drops.dagstuhl.de/opus/volltexte/2018/9208/pdf/LIPIcs-ECOOP-2018-3.pdf
 
-### 雑記
+## 雑記
 Generator は Coroutine というものの機能を制限したものということらしい．
 
 値のログを残す yield (Generator) と値を取りだす await (Iteratee) は双対．それぞれ，Writer モナドと Reader モナド．では JS の yield は State か？
